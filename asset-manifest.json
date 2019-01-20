@@ -1,9 +1,9 @@
 {
-  "main.css": "/static/css/main.b5cfc889.chunk.css",
-  "main.js": "/static/js/main.648237cb.chunk.js",
-  "main.js.map": "/static/js/main.648237cb.chunk.js.map",
-  "static/js/1.4a44fc99.chunk.js": "/static/js/1.4a44fc99.chunk.js",
-  "static/js/1.4a44fc99.chunk.js.map": "/static/js/1.4a44fc99.chunk.js.map",
+  "main.css": "/static/css/main.68d1b075.chunk.css",
+  "main.js": "/static/js/main.0d0b9ac1.chunk.js",
+  "main.js.map": "/static/js/main.0d0b9ac1.chunk.js.map",
+  "static/js/1.a4bcc82d.chunk.js": "/static/js/1.a4bcc82d.chunk.js",
+  "static/js/1.a4bcc82d.chunk.js.map": "/static/js/1.a4bcc82d.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/jest.svg": "/static/media/jest.2c3c135c.svg",
@@ -20,8 +20,8 @@
   "static/media/nextjs.svg": "/static/media/nextjs.e48e27f9.svg",
   "static/media/babel.svg": "/static/media/babel.d255e75f.svg",
   "static/media/cover.jpeg": "/static/media/cover.67aec5b7.jpeg",
-  "static/css/main.b5cfc889.chunk.css.map": "/static/css/main.b5cfc889.chunk.css.map",
+  "static/css/main.68d1b075.chunk.css.map": "/static/css/main.68d1b075.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.3c8c90905940f9d2f7e7cd7f094d6b02.js": "/precache-manifest.3c8c90905940f9d2f7e7cd7f094d6b02.js",
+  "precache-manifest.d21625825a0331e2d603129cc3742d7d.js": "/precache-manifest.d21625825a0331e2d603129cc3742d7d.js",
   "service-worker.js": "/service-worker.js"
 }
